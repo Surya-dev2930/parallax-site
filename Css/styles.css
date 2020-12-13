@@ -1,0 +1,86 @@
+
+body{
+    height: 100%;
+    margin: 0px;
+    background-color: silver;
+    font-family:  "Lato", sans-serif;
+    text-align: center;
+    
+}
+
+
+.img1{
+    
+    background-image: url(https://jrdrealtorss.com/luxury-villas-in-coimbatore/img/background5.jpg);
+    min-height: 600px;
+    
+}
+.img2{
+    background-image: url(https://thepapyrus.in/wp-content/uploads/2016/02/12525490_810211355773021_4793845996774437934_o-1170x470.jpg);
+    min-height: 350px;
+}
+
+.img3{
+    background-image: url(https://www.track2realty.track2media.com/wp-content/uploads/2017/06/Coimbatore.jpg);
+    min-height: 350px;
+}
+.img4{
+    background-image: url(https://c0.wallpaperflare.com/preview/120/748/937/india-coimbatore-isha-yoga-center-hd-wallpaper.jpg);
+    min-height: 600px;
+}
+
+.img1, .img2, .img3, .img4{
+
+    padding-top: 100px;
+    opacity: 0.60;
+    position: relative;
+    background-size: cover;
+    height: 100px;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.text1{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    
+
+
+
+
+}
+.border{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+    
+}
+
+.border-lite{
+    background-color: transparent;
+    color: white;
+    padding: 20px;
+
+}
+
+
+.section-dark{
+    background-color: black;
+    color: white;
+    margin: 0;
+    line-height: 1.8em;
+    padding: 30px 50px;
+}
+ul{
+    text-align: left;
+    display: table;
+    margin: 0 auto;
+    line-height: 2;
+}
